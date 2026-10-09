@@ -10,3 +10,7 @@ International Public Design Forum 공식 홈페이지 초안.
 ## alt2 시안
 
 `/alt2/`: 국제 포럼 에디토리얼 시안(원페이지, Noto Serif KR). 수정은 `_src/build_alt2.py` 후 `python3 _src/build_alt2.py`
+
+## alt3 시안
+
+`/alt3/`: weforum.org 구조를 따른 시안. 수정은 `_src/build_alt3.py` 후 `python3 _src/build_alt3.py`
