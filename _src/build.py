@@ -2,7 +2,7 @@
 # 공통 머리말/꼬리말을 각 페이지 본문에 입혀 루트에 html 파일을 만든다.
 import os, json, html
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-BASE = 'https://armula92.github.io/ipdf/'
+BASE = 'https://www.armula.com/ipdf/'
 from content import PAGES  # noqa: E402
 
 NAV = [('about.html', '포럼 소개'), ('vision.html', '비전과 계획'), ('forums.html', '포럼 아카이브'),
